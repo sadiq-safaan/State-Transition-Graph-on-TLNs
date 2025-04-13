@@ -1,1 +1,1 @@
-# State-Transition-Graph-on-TLNs
+# STG-on-TLNs
